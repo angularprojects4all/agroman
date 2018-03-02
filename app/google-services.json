@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1069208583720",
+    "project_id": "firebase-agroman1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069208583720:android:c54266174ed256d3",
+        "android_client_info": {
+          "package_name": "com.example.mypc.agroman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069208583720-nmu04f2ao5gvh7fpu3sei249pv4nps32.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1069208583720-f3u4f6dhjlrsq54e4u5gink7le4rfcg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypc.agroman",
+            "certificate_hash": "0bc67cf009ef5e28ae24a04de7cc186b4638c2f9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssA9782EJAvUjGfjT3dUdF7pmxSM3vvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
